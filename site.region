@@ -17,18 +17,11 @@
 
         <!-- site title or logo -->
         {.section website}
-          <h1 class="site-title-heading" data-content-field="site-title">
-            <a href="/" class="site-title-link">Hello World!</a>
-          </h1>
+          
           <h1 class="site-title-heading" data-content-field="site-title">
             <a href="/" class="site-title-link">Chris' Site!</a>
           </h1>
-          <h1 class="site-title-heading" data-content-field="site-title">
-            <a href="/" class="site-title-link">1,2,3!</a>
-          </h1>
-          <h1 class="site-title-heading" data-content-field="site-title">
-            <a href="/" class="site-title-link">This is working!</a>
-          </h1>
+          
         {.end}
       </header>
 
