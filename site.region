@@ -19,17 +19,9 @@
         {.section website}
           
           <h1 class="site-title-heading" data-content-field="site-title">
-            <a href="/" class="site-title-link">Chris' Site! 123</a>
+            <a href="/" class="site-title-link">Chris' Site!</a>
           </h1>
 
-          <h1 class="site-title-heading" data-content-field="site-title">
-            <a href="/" class="site-title-link">A Test Run 123</a>
-          </h1>
-
-          <h1 class="site-title-heading" data-content-field="site-title">
-            <a href="/" class="site-title-link">Second Test Heading</a>
-          </h1>
-          
         {.end}
       </header>
 
