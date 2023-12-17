@@ -51,3 +51,9 @@ See the [Template Configuration documentation](https://developers.squarespace.co
 ### Further Reading
 
 For further reading please consult the [Squarespace Template Overview](https://developers.squarespace.com/template-overview/) and other documentation on the Squarespace developers website.
+
+### Resources
+
+[Squarespace Developer Mode](https://www.skillshare.com/en/classes/Squarespace-Developer-Mode-Create-and-edit-your-own-Squarespace-templates/1475256102?via=search-layout-grid)
+
+[Omari Herebin](https://www.youtube.com/@OmariHarebin)
