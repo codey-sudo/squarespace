@@ -1,0 +1,9 @@
+<h1>Class Types available</h1>
+
+<ul>
+  {.section collection}
+    {.repeated section collections}
+      <li><a href="{fullUrl}">{title}</a></li>
+    {.end}
+  {.end}
+</ul>

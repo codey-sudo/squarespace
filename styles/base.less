@@ -75,6 +75,33 @@ body {
 
 }
 
+.site-navigation-list {
+  padding-top: 2rem;
+}
+
+.site-navigation-item {
+  padding-right: 4rem;
+  font-size: 1.3rem;
+  font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+
+.site-navigation-item ul {
+  display: none;
+}
+
+.site-navigation-item:hover ul {
+  display: block;
+  position:absolute;
+  padding-left: 0;
+  list-style: none;
+  background-color: antiquewhite;
+  z-index: 100;
+}
+
+li.site-navigation-item:hover {
+  border-bottom: 4px solid #111;
+}
+
 .site-title-heading {
 
   .site-title-link {

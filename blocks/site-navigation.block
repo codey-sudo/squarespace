@@ -4,10 +4,28 @@
 
       <li class="site-navigation-item {.section active} active-link{.end}">
 
-        <!-- collection link -->
-        {.section collection}
+
+        {.folder?}
+         <a href="{collection.fullUrl}">{collection.navigationTitle}</a>
+         <ul>
+           {.repeated section items}
+            <li>
+             {.section collection}
+               <a href="{fullUrl}">{navigationTitle}</a>
+             {.end}
+            </li>
+
+           {.end}
+         </ul>
+
+         {.or}
+          <!-- collection link -->
+          {.section collection}
           <a href="{fullUrl}">{navigationTitle}</a>
+          {.end}
+
         {.end}
+
 
         <!-- external link -->
         {.section externalLink}

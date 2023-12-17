@@ -12,9 +12,6 @@
 
       <header class="site-header">
       <div class="site-container">
-        <!-- site navigation -->
-        <squarespace:navigation navigationId="siteNav" template="site-navigation" />
-
         <!-- site title or logo -->
         {.section website}
           
@@ -23,5 +20,9 @@
           </h1>
 
         {.end}
+        <!-- site navigation -->
+        <squarespace:navigation navigationId="siteNav" template="site-navigation" />
+
+       
         </div>
       </header>
