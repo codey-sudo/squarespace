@@ -1,12 +1,12 @@
 
 
 
-{.repeated section upcoming}
-  <div class="event">
-  <h2><a href="{fullUrl}">{title}</a></h2>
-  <em>{startDate|date %A, %B %d}</em><br>
-  <em>{startDate|date %I:%M:%p} to {endDate|date %I:%M:%p}</em>
+ {.repeated section upcoming}
+   <div class="event">
+   <h2><a href="{fullUrl}">{title}</a></h2>
+   <em>{startDate|date %A, %B %d}</em><br>
+   <em>{startDate|date %I:%M:%p} to {endDate|date %I:%M:%p}</em>
    {body}
-  </div>
-{.end}
+   </div>
+ {.end}
 

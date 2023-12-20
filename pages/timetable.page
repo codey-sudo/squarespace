@@ -2,3 +2,18 @@
 <iframe src="https://calendar.google.com/calendar/embed?src=classroom101618344845797972449%40group.calendar.google.com&ctz=America%2FToronto" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 <squarespace:block-field id="blockField1" columns="12"/>
+
+<h2> Upcoming Events </h2>
+
+  <squarespace:query collection="new-events-1" limit="10">
+  <script>console.log({@|json-pretty})</script>
+   {.repeated section items}
+    <div class="event">
+    <h2><a href="{fullUrl}">{title}</a></h2>
+    <em>{startDate|date %A, %B %d}</em><br>
+    <em>{startDate|date %I:%M:%p} to {endDate|date %I:%M:%p}</em>
+    {body}
+    </div>
+  {.end}
+
+</squarespace:query>
