@@ -14,3 +14,8 @@ All stylesheets added to the template.conf in this way will be compiled and serv
 ### Further Reading
 
 For further reading, see the [Template Overview documentation](https://developers.squarespace.com/template-overview/). To read about adding attributes to our style editor, see the [Style Editor documentation](https://developers.squarespace.com/style-editor/).
+
+
+### myNotes
+
+Broke up styles code into separate files (blog and header) for easy readability and editing.
