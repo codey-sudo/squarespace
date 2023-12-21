@@ -65,3 +65,7 @@ For further reading please consult the [Squarespace Template Overview](https://d
 [Scale with Templates](https://www.katescott.co/scale)
 
 [Elevate your Templates](https://www.bigcatcreative.com/)
+
+[Web Designers: DON'T start your custom websites from SCRATCH!](https://www.youtube.com/watch?v=oszZsWV8lhw)
+
+[BEHIND THE SCENES: How I create Custom Squarespace Websites in 2 Weeks](https://www.youtube.com/watch?v=iO-azgRRYW8)
