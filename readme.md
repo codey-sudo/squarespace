@@ -52,10 +52,16 @@ See the [Template Configuration documentation](https://developers.squarespace.co
 
 For further reading please consult the [Squarespace Template Overview](https://developers.squarespace.com/template-overview/) and other documentation on the Squarespace developers website.
 
-### Resources
+### Resources and things to peruse, study and mull over
 
 [Squarespace Developer Mode](https://www.skillshare.com/en/classes/Squarespace-Developer-Mode-Create-and-edit-your-own-Squarespace-templates/1475256102?via=search-layout-grid)
 
 [Omari Herebin](https://www.youtube.com/@OmariHarebin)
 
 [SQSP Themes Squarespace Template Industry Report](https://www.youtube.com/watch?v=QvYulXH-CYo)
+
+[The Template Factory](https://www.23and9creative.com/the-template-factory)
+
+[Scale with Templates](https://www.katescott.co/scale)
+
+[Elevate your Templates](https://www.bigcatcreative.com/)
