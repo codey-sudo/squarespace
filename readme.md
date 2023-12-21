@@ -57,3 +57,5 @@ For further reading please consult the [Squarespace Template Overview](https://d
 [Squarespace Developer Mode](https://www.skillshare.com/en/classes/Squarespace-Developer-Mode-Create-and-edit-your-own-Squarespace-templates/1475256102?via=search-layout-grid)
 
 [Omari Herebin](https://www.youtube.com/@OmariHarebin)
+
+[SQSP Themes Squarespace Template Industry Report](https://www.youtube.com/watch?v=QvYulXH-CYo)
